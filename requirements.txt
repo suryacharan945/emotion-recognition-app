@@ -1,0 +1,10 @@
+﻿streamlit
+torch
+transformers
+Pillow
+gdown
+huggingface-hub
+numpy
+tqdm
+pandas
+requests
