@@ -3,6 +3,7 @@
 
 This project presents a multi-modal emotion recognition system that analyzes image + text data (such as memes) to detect both emotional context and hateful intent.
 By combining OpenAI’s CLIP architecture with attention-based fusion, the system captures deeper relationships between visual and textual modalities — achieving more accurate and interpretable predictions.
+Streamlit link - https://emotion-recognition-app-mvtrwgbjnvlj23sdcvjdyz.streamlit.app/ 
 
 🚀 Features
 
